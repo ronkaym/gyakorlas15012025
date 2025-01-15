@@ -3,4 +3,5 @@
 # konfliktus megoldása
 # gyaki
 # teszteles_ág_szerkesztés
-
+# előre
+# előre
