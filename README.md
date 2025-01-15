@@ -1,3 +1,3 @@
 # gyakorlas15012025
 # szerkesztetes gyakorlas
-# szerkesztes geprol
+# szerkesztes geprol és a böngészőből is
