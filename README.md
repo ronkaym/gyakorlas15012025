@@ -2,4 +2,4 @@
 # szerkesztetes gyakorlas
 # konfliktus megoldása
 # gyaki
-
+# fejlesztő ág szerkesztés
